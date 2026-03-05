@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Abhinavgs1
-- 👀 I’m interested in AI, Cloud & Data Science
-- 🌱 I’m currently learning Data Analysis using Azure
-- 💞️ I’m looking to collaborate on AI, Cloud, and Data and work as a team...
-- 😄 Pronouns: He/him/his
+-  Hi, I’m @Abhinavgs1
+-  I’m interested in AI, Cloud & Data Science
+-  I’m currently learning Data Analysis using Azure
+-  I’m looking to collaborate on AI, Cloud, and Data and work as a team...
+-  Pronouns: He/him/his
